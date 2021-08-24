@@ -1,6 +1,4 @@
-import React from 'react';
-
-function AdminPage(props) {
+function AdminPage() {
   return (
     <div></div>
   );
