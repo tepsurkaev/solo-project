@@ -11,3 +11,6 @@
 <li>4: Запустить в WebStorm или VSCode сначала ввести в терминале cd solo-project</li>
 <li>5: Затем ввести npm run dev</li>
 </ul>
+
+#### Home page
+<img src="assets/water-home-page.PNG">
