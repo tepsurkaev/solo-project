@@ -14,3 +14,20 @@
 
 #### Home page
 <img src="assets/water-home-page.PNG">
+<hr/>
+
+#### Cart page
+<img src="assets/water-cart-page.PNG">
+<hr/>
+
+#### Delete product page
+<img src="assets/water-delete-page.PNG">
+<hr/>
+
+#### Edit product page
+<img src="assets/water-edit-page.PNG">
+<hr/>
+
+#### Add product page
+<img src="assets/water-add-page.PNG">
+<hr/>
